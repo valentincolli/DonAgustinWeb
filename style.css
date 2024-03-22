@@ -157,7 +157,7 @@ h6 {
 }
 .banner-btn:hover {
 	background: #e90404;
-	color:#ab2f52;
+	color:#ffbf00;
 }
 .section-padding {
 	padding: 100px 0px;
@@ -297,7 +297,7 @@ h6 {
 	border: 0;
 }
 .portfolio .filtering .active {
-	background-color: #ab2f52;
+	background-color: #ffbf00;
 	color: #fff;
 	border-radius: 28px;
 	-webkit-box-shadow: 0px 10px 30px -4px rgba(0, 0, 0, 0.2);
@@ -458,7 +458,7 @@ h6 {
 	margin-bottom: 30px !important;
 }
 .testimonials .icon i {
-	color: #ab2f52;
+	color: #ffbf00;
 	font-size: 47px;
 	margin-bottom: 25px;
 }
@@ -470,7 +470,7 @@ h6 {
 	margin-bottom: 10px !important;
 }
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
-	background: #ab2f52 !important;
+	background: #ffbf00 !important;
 }
 .info-box {
 	position:relative;
@@ -482,7 +482,7 @@ h6 {
 }
 .info-box .icon i {
 	font-size: 20px;
-	color: #ab2f52;
+	color: #ffbf00;
 }
 .info-box .content {
 	display:inline-block;
@@ -506,7 +506,7 @@ h6 {
 	color: #fff;
 	-webkit-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
-	background: #ab2f52;
+	background: #ffbf00;
 	padding: 12px 45px;
 	font-size: 15px;
 	border-radius: 30px;
